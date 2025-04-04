@@ -1,2 +1,3 @@
 # E-CART
-![E-comm](https://github.com/user-attachments/assets/ca2201c4-efe5-4955-bc2b-49ec29adc3fb)
+
+![mern](https://github.com/user-attachments/assets/83039298-ab04-44ec-b556-2eafa7efb6f3)
