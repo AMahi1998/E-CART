@@ -1,0 +1,158 @@
+[
+    {
+      "name": "Wireless Bluetooth Headphones",
+      "price": 89.99,
+      "description": "Noise-cancelling wireless Bluetooth headphones with deep bass and long battery life.",
+      "ratings": "4.5",
+      "images": [
+        {
+          "image": "https://example.com/images/headphones1.jpg"
+        },
+        {
+          "image": "https://example.com/images/headphones2.jpg"
+        }
+      ],
+      "category": "Headphones",
+      "seller": "TechGear Store",
+      "stock": 15,
+      "numOfReviews": 50,
+      "reviews": [
+        {
+          "name": "John Doe",
+          "rating": "5",
+          "comment": "Great sound quality, comfortable to wear for long periods!"
+        },
+        {
+          "name": "Jane Smith",
+          "rating": "4",
+          "comment": "Good value for the price, but noise cancellation could be better."
+        }
+      ],
+      "createdAt": "2025-04-01T10:00:00Z"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 799.99,
+      "description": "The Samsung Galaxy S21 features a 6.2-inch display, 64MP camera, and 8GB of RAM.",
+      "ratings": "4.8",
+      "images": [
+        {
+          "image": "https://example.com/images/galaxyS21_1.jpg"
+        },
+        {
+          "image": "https://example.com/images/galaxyS21_2.jpg"
+        }
+      ],
+      "category": "Mobile Phones",
+      "seller": "Samsung Official",
+      "stock": 25,
+      "numOfReviews": 120,
+      "reviews": [
+        {
+          "name": "Alice Brown",
+          "rating": "5",
+          "comment": "Excellent phone with amazing performance and camera quality!"
+        },
+        {
+          "name": "Robert Clark",
+          "rating": "4",
+          "comment": "Good phone, but the battery life could be improved."
+        }
+      ],
+      "createdAt": "2025-04-01T12:00:00Z"
+    },
+    {
+      "name": "Dell XPS 13 Laptop",
+      "price": 999.99,
+      "description": "The Dell XPS 13 is a powerful ultrabook with an Intel i7 processor, 16GB RAM, and a 512GB SSD.",
+      "ratings": "4.7",
+      "images": [
+        {
+          "image": "https://example.com/images/dellXPS13_1.jpg"
+        },
+        {
+          "image": "https://example.com/images/dellXPS13_2.jpg"
+        }
+      ],
+      "category": "Laptops",
+      "seller": "Dell Official",
+      "stock": 10,
+      "numOfReviews": 85,
+      "reviews": [
+        {
+          "name": "Sarah Wilson",
+          "rating": "5",
+          "comment": "Super fast laptop with an amazing display. Perfect for work and entertainment."
+        },
+        {
+          "name": "David Lee",
+          "rating": "4",
+          "comment": "Great performance, but I wish the battery lasted longer."
+        }
+      ],
+      "createdAt": "2025-04-02T09:00:00Z"
+    },
+    {
+      "name": "Nike Air Max 270 Sneakers",
+      "price": 129.99,
+      "description": "Comfortable and stylish sneakers from Nike, perfect for everyday wear and athletic performance.",
+      "ratings": "4.6",
+      "images": [
+        {
+          "image": "https://example.com/images/nikeAirMax270_1.jpg"
+        },
+        {
+          "image": "https://example.com/images/nikeAirMax270_2.jpg"
+        }
+      ],
+      "category": "Clothes/Shoes",
+      "seller": "Nike Store",
+      "stock": 30,
+      "numOfReviews": 60,
+      "reviews": [
+        {
+          "name": "Michael Johnson",
+          "rating": "5",
+          "comment": "Incredibly comfortable and stylish. Perfect for running and casual outings."
+        },
+        {
+          "name": "Emily Davis",
+          "rating": "4",
+          "comment": "Great shoes, but a bit pricey for what they offer."
+        }
+      ],
+      "createdAt": "2025-04-02T11:00:00Z"
+    },
+    {
+      "name": "Apple MacBook Air (M1)",
+      "price": 999.00,
+      "description": "The new Apple MacBook Air powered by M1 chip delivers exceptional performance and long battery life.",
+      "ratings": "5",
+      "images": [
+        {
+          "image": "https://example.com/images/macbookAirM1_1.jpg"
+        },
+        {
+          "image": "https://example.com/images/macbookAirM1_2.jpg"
+        }
+      ],
+      "category": "Laptops",
+      "seller": "Apple Official",
+      "stock": 8,
+      "numOfReviews": 150,
+      "reviews": [
+        {
+          "name": "Sophia Green",
+          "rating": "5",
+          "comment": "Love the MacBook Air with M1 chip. Fast, efficient, and lasts all day on a single charge."
+        },
+        {
+          "name": "James Taylor",
+          "rating": "5",
+          "comment": "Absolutely amazing laptop. Perfect balance of performance and portability."
+        }
+      ],
+      "createdAt": "2025-04-02T13:00:00Z"
+    }
+  ]
+  
